@@ -21,7 +21,13 @@ Use `git status` to find out information regarding what files are modified and w
 * `git status`
 * `git add .`
 * `git commit m- "more information"
-
+* ### BRANCHES
+* A branch in nothing but a pointer to the latest commit in the Git repo. 
+* `git branch test`
+* `git checkout test`
+* The following command will list all in local the branches.
+* `git branch`
+ 
 
  
 

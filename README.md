@@ -15,7 +15,15 @@
 * **Commiting**
 * ```Commiting is the process in which the code is added to the **local repository**.```
 * `git commit -m "README added"`
-* 
+* Now modify the README.md file and add the following snippet:
+* ```Status
+Use `git status` to find out information regarding what files are modified and what files are there in the staging area ```
+* `git status`
+* `git add .`
+* `git commit m- "more information"
+
+
+ 
 
 
   

@@ -10,7 +10,7 @@
 * `"The content is alreary here"`
 * `control X` `Y`
 * **Staging** 
-* `Any file which is not added to the staging area will not be committed. This gives the developer control over which files need to be committed.`
+*  Any file which is not added to the staging area will not be committed. This gives the developer control over which files need to be committed.
 * `git add READM.md`
 * **Commiting**
 * Commiting is the process in which the code is added to the **local repository**.

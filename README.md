@@ -1,4 +1,4 @@
-*# Simple Git Demo
+* # Simple Git Demo
 
 * Create your local Git repository.
 * `mkdir simple-git-demo`
@@ -10,13 +10,13 @@
 * `"The content is alreary here"`
 * `control X` `Y`
 * **Staging** 
-* ```Any file which is not added to the staging area will not be committed. This gives the developer control over which files need to be committed.```
+* `Any file which is not added to the staging area will not be committed. This gives the developer control over which files need to be committed.`
 * `git add READM.md`
 * **Commiting**
 * Commiting is the process in which the code is added to the **local repository**.
 * `git commit -m "README added"`
 * Now modify the README.md file and add the following snippet:
-* Status
+* ### Status
 * Use `git status` to find out information regarding what files are modified and what files are there in the staging area.
 * `git status`
 * `git add .`
